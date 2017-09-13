@@ -1,0 +1,4 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"TASK_SKILL_ID","NUMBER(5,0)","No","","1"
+"TASK_ID","NUMBER(5,0)","Yes","",""
+"SKILL_ID","NUMBER(5,0)","Yes","",""

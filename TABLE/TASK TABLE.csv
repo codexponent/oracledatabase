@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"TASK_ID","NUMBER(5,0)","No","","1"
+"DESCRIPTION","VARCHAR2(35)","Yes","",""
+"START_DATE","VARCHAR2(15)","Yes","",""
+"END_DATE","VARCHAR2(15)","Yes","",""
+"SUGGESTED_DURATION","VARCHAR2(15)","Yes","",""
+"PROJECT_ID","NUMBER(5,0)","Yes","",""

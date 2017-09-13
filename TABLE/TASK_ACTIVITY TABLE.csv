@@ -1,0 +1,6 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"ACTIVITY_ID","NUMBER(5,0)","No","","1"
+"ACTIVITY_DESCRIPTION","VARCHAR2(20)","Yes","",""
+"ACTIVITY_DAY","VARCHAR2(10)","Yes","",""
+"ACTIVITY_DATE","DATE","Yes","",""
+"TASK_ID","NUMBER(5,0)","Yes","",""

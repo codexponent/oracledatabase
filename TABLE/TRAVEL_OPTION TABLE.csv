@@ -1,0 +1,5 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"TRAVEL_ID","NUMBER(5,0)","No","","1"
+"TYPE_OF_TRAVEL_MEDIUM","VARCHAR2(30)","Yes","",""
+"DETAILS_OF_TRAVEL","VARCHAR2(30)","Yes","",""
+"PROJECT_LOCATION_ID","NUMBER(5,0)","Yes","",""

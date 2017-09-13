@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"BOOKING_ID","NUMBER(5,0)","No","","1"
+"BOOKING_DATE","NUMBER(15,0)","Yes","",""
+"TICKET_PRICE","VARCHAR2(20)","Yes","",""
+"DESCRIPTION","VARCHAR2(30)","Yes","",""
+"TRAVEL_ID","NUMBER(5,0)","Yes","",""
+"VOLUNTEER_ID","VARCHAR2(10)","Yes","",""

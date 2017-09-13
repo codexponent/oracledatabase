@@ -1,0 +1,7 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"PROJECT_CONTACT_ID","NUMBER(5,0)","No","","1"
+"CONTACT_NAME","VARCHAR2(20)","Yes","",""
+"EMAIL","VARCHAR2(30)","Yes","",""
+"PHONE_NUMBER","VARCHAR2(20)","Yes","",""
+"JOB_TITLE","VARCHAR2(20)","Yes","",""
+"PROJECT_ID","NUMBER(5,0)","Yes","",""

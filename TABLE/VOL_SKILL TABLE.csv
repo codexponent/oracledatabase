@@ -1,0 +1,4 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"VOL_SKILL_ID","NUMBER(5,0)","No","","1"
+"VOLUNTEER_ID","VARCHAR2(10)","Yes","",""
+"SKILL_ID","NUMBER(5,0)","Yes","",""
